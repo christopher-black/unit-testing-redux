@@ -8,3 +8,9 @@
 
 - `npm install`
 - `npm test`
+
+
+## Resources
+
+- https://mochajs.org/
+- http://www.chaijs.com/
